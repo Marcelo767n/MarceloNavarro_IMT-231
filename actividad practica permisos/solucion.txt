@@ -26,6 +26,8 @@ porque se pide que solo el propietario pueda leerlo (4) entonces 4
 grupo 0 
 otros usuarios 0
 
+enlace de repositorio de github: https://github.com/Marcelo767n/MarceloNavarro_IMT-231.git
+
 
  
 
