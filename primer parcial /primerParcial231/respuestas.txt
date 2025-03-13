@@ -3,6 +3,7 @@ Archivo de Respuestas: respuestas.txt
 Datos del Estudiante
 - Nombre Completo: LUIS MARCELO NAVARRO ALBA  
 - URL de GitHub de la carpeta del examen:
+https://github.com/Marcelo767n/MarceloNavarro_IMT-231/tree/main/primer%20parcial%20
 
 ---
 
